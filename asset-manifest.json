@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Galeria-React/static/css/main.4f5c17c7.css",
+    "main.js": "/Galeria-React/static/js/main.4ce3328e.js",
+    "static/js/787.92e6f27d.chunk.js": "/Galeria-React/static/js/787.92e6f27d.chunk.js",
+    "static/media/rocas.jpg": "/Galeria-React/static/media/rocas.6387580071759b0985db.jpg",
+    "static/media/arboles.jpg": "/Galeria-React/static/media/arboles.240ad87456b94714e93e.jpg",
+    "static/media/rio.jpg": "/Galeria-React/static/media/rio.b147f22dc0dd3b8ddb0c.jpg",
+    "static/media/people.jpg": "/Galeria-React/static/media/people.08a7f161e333b047f102.jpg",
+    "static/media/cielo.jpg": "/Galeria-React/static/media/cielo.50698cbc280e6d4d37ed.jpg",
+    "static/media/luna.jpg": "/Galeria-React/static/media/luna.d97cf359ba4ce91bac6d.jpg",
+    "static/media/quimica.jpg": "/Galeria-React/static/media/quimica.9cd0968b877f5b642e30.jpg",
+    "static/media/mars.jpg": "/Galeria-React/static/media/mars.1ecaefd3fa71a04caa8c.jpg",
+    "static/media/faro.jpg": "/Galeria-React/static/media/faro.fae7b462854798c70b8c.jpg",
+    "static/media/edificio.jpg": "/Galeria-React/static/media/edificio.70dfc9b0399c6829e29e.jpg",
+    "static/media/marte.jpg": "/Galeria-React/static/media/marte.2dab09e8f78171c892ff.jpg",
+    "static/media/ojos.jpg": "/Galeria-React/static/media/ojos.cf2f2f2abcc3e2ebec99.jpg",
+    "static/media/inspire.jpg": "/Galeria-React/static/media/inspire.81972aa2d9942e61d5bd.jpg",
+    "static/media/touch.jpg": "/Galeria-React/static/media/touch.9a766c72d176153096a5.jpg",
+    "index.html": "/Galeria-React/index.html",
+    "main.4f5c17c7.css.map": "/Galeria-React/static/css/main.4f5c17c7.css.map",
+    "main.4ce3328e.js.map": "/Galeria-React/static/js/main.4ce3328e.js.map",
+    "787.92e6f27d.chunk.js.map": "/Galeria-React/static/js/787.92e6f27d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5c17c7.css",
+    "static/js/main.4ce3328e.js"
+  ]
+}
